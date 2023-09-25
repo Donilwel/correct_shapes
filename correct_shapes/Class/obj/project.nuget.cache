@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JEWN0NhoUHGoPOoBG6+4puFM4TZ9kUeR7hOYzwu+QXBViwChda0IU3chvrtpvBBh75RG8eRMa99AiWecfA8zxw==",
+  "success": true,
+  "projectFilePath": "/Users/galkersteammain/Downloads/correct_shapes/Class/Class.csproj",
+  "expectedPackageFiles": [
+    "/Users/galkersteammain/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/galkersteammain/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

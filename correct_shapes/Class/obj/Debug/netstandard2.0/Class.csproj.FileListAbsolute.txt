@@ -1,0 +1,9 @@
+C:\Users\Future\Desktop\correct_shapes\Class\bin\Debug\netstandard2.0\Class.deps.json
+C:\Users\Future\Desktop\correct_shapes\Class\bin\Debug\netstandard2.0\Class.dll
+C:\Users\Future\Desktop\correct_shapes\Class\bin\Debug\netstandard2.0\Class.pdb
+C:\Users\Future\Desktop\correct_shapes\Class\obj\Debug\netstandard2.0\Class.AssemblyInfoInputs.cache
+C:\Users\Future\Desktop\correct_shapes\Class\obj\Debug\netstandard2.0\Class.AssemblyInfo.cs
+C:\Users\Future\Desktop\correct_shapes\Class\obj\Debug\netstandard2.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\Future\Desktop\correct_shapes\Class\obj\Debug\netstandard2.0\Class.dll
+C:\Users\Future\Desktop\correct_shapes\Class\obj\Debug\netstandard2.0\Class.pdb
+C:\Users\Future\Desktop\correct_shapes\Class\obj\Debug\netstandard2.0\Class.csprojAssemblyReference.cache
